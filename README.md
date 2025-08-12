@@ -21,5 +21,7 @@ python main.py
 - main.py: The main Python script containing the logic to call the API and display weather info.
 - Uses the requests package to handle HTTP requests.
 - Implements error handling for failed API calls.
-Author
+
+Author:
+
 Alabi Joshua Onasi
